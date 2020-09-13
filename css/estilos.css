@@ -1,5 +1,19 @@
 body {
-    color: palevioletred;
-    text-align: center;
+    color: #d87093;
+    text-align: left;
     font-family: "Arial";
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid #DDD;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+h1{
+    color: purple;
+    text-align: center;
 }
