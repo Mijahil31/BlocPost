@@ -13,6 +13,10 @@ body {
     margin: 0 auto;
 }
 
+#parrafo_2 {
+    color: brown;
+}
+
 h1{
     color: purple;
     text-align: center;
